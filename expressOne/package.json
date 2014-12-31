@@ -1,0 +1,14 @@
+{
+  "name": "expressOne",
+  "version": "0.0.1",
+  "description": "Express app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "juancarlosqr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.10.6"
+  }
+}

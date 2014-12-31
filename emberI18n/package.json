@@ -1,0 +1,14 @@
+{
+  "name": "emberI18n",
+  "version": "0.0.1",
+  "description": "i18n ember app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "juancarlosqr",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.10.6"
+  }
+}
