@@ -1,0 +1,18 @@
+/*! style.scss */
+
+$my_color: #BADA55;
+$green: #339966;
+
+nav {
+  a{
+    color: $my_color;
+    &:hover {
+      color: darken($my_color, 10%);
+    }
+  }
+}
+
+p {
+    border-style: solid;
+    border-color: $green;
+}

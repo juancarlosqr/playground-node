@@ -1,0 +1,11 @@
+/*! style.scss */
+nav a {
+  color: #BADA55; }
+  nav a:hover {
+    color: #a8cf2d; }
+
+p {
+  border-style: solid;
+  border-color: #339966; }
+
+/*# sourceMappingURL=style.css.map */
